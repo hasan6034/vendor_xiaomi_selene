@@ -97,7 +97,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/selene/proprietary/vendor/bin/libccu_ov8856_ofilm_front_mipi_raw.pm:$(TARGET_COPY_OUT_VENDOR)/bin/libccu_ov8856_ofilm_front_mipi_raw.pm \
     vendor/xiaomi/selene/proprietary/vendor/bin/libccu_s5kjn1_ofilm_main_mipi_raw.dm:$(TARGET_COPY_OUT_VENDOR)/bin/libccu_s5kjn1_ofilm_main_mipi_raw.dm \
     vendor/xiaomi/selene/proprietary/vendor/bin/libccu_s5kjn1_ofilm_main_mipi_raw.pm:$(TARGET_COPY_OUT_VENDOR)/bin/libccu_s5kjn1_ofilm_main_mipi_raw.pm \
-    vendor/xiaomi/selene/proprietary/vendor/bin/meta_tst:$(TARGET_COPY_OUT_VENDOR)/bin/meta_tst \
     vendor/xiaomi/selene/proprietary/vendor/bin/mi_thermald:$(TARGET_COPY_OUT_VENDOR)/bin/mi_thermald \
     vendor/xiaomi/selene/proprietary/vendor/bin/mmc_ffu:$(TARGET_COPY_OUT_VENDOR)/bin/mmc_ffu \
     vendor/xiaomi/selene/proprietary/vendor/bin/mmc_ffu_hynix:$(TARGET_COPY_OUT_VENDOR)/bin/mmc_ffu_hynix \
